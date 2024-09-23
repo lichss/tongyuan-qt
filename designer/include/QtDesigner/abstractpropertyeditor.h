@@ -1,1 +1,1 @@
-#include "../../src/designer/src/lib/sdk/abstractpropertyeditor.h"
+#include "../../../designer//src/lib/sdk/abstractpropertyeditor.h"

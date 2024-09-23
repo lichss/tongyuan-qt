@@ -1,1 +1,1 @@
-#include "../../src/designer/src/lib/sdk/dynamicpropertysheet.h"
+#include "../../../designer//src/lib/sdk/dynamicpropertysheet.h"

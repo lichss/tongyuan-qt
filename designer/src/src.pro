@@ -1,8 +1,8 @@
 TEMPLATE = subdirs
 message("src is compiling")
 
-INCLUDEPATH += ../include/
-message("add " ../include/)
+
+
 SUBDIRS = \
     uiplugin \
     uitools
@@ -10,7 +10,7 @@ SUBDIRS = \
 
 
 qtConfig(process) {
-    message(into process)
+
     SUBDIRS += \
         lib \
         components \

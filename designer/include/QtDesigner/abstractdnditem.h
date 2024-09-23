@@ -1,1 +1,1 @@
-#include "../../src/designer/src/lib/sdk/abstractdnditem.h"
+#include "../../../designer//src/lib/sdk/abstractdnditem.h"
